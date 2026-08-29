@@ -437,7 +437,7 @@ Make sure the following are installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/saavithri-handlooms.git
+git clone https://github.com/AnnadataHemanth/Sarees_Website_Fullstack
 cd saavithri-handlooms
 ```
 
